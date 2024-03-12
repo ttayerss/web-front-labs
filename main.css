@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(241, 207, 228);
+    color: black;
+    font-family: Arial;
+    margin: 0px;
+}
+h1 {
+    color: rgb(39, 105, 65);
+    padding: 30px; 
+    font-size: 35pt
+}
+header {
+    background-color: rgb(39, 105, 65);
+    color:black; 
+    padding: 10px; 
+    font-size: 16pt;
+}
+footer {
+    background-color: rgb(39, 105, 65);
+    color:black; 
+    padding: 10px; 
+    font-size: 16pt;
+}
