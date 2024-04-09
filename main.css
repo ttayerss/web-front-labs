@@ -7,7 +7,8 @@ body {
 h1 {
     color: rgb(39, 105, 65);
     padding: 30px; 
-    font-size: 35pt
+    font-size: 35pt;
+    text-align: center;
 }
 header {
     background-color: rgb(39, 105, 65);
@@ -38,9 +39,19 @@ a:hover {
     transition: 0.3s;
 }
 a:active {
-    color: rgb(5, 5, 18);
+    color: rgb(16, 16, 197);
     opacity: 0.3;
 }
 ol {
     line-height: 25px;
+}
+div.menu {
+    border: 7px solid rgb(39, 105, 65);
+    border-radius: 5px;
+    width: 300px;
+    margin: 20px auto;
+}
+div.menu:hover {
+    background-color: beige;
+    box-shadow: 0 0 15px rgb(16, 16, 16);
 }
